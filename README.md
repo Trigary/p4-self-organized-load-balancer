@@ -1,9 +1,7 @@
 # A load balancing algorithm for self-organized networks
 
-This repository holds a reference implementation of the load balancing algorithm presented in the following paper:
-
-Load Balancing and Alternative Path Selection in Self-Organized Networks: A Data Plane Approach  
-_TODO The paper is currently under review. Insert a proper citation here if the paper gets accepted._
+This repository holds a reference implementation of the load balancing algorithm presented in the following paper:  
+[Sárközi, G. and Vörös, P., 2025. Load Balancing and Alternative Path Selection in Self-Organized Networks: A Data Plane Approach. IEEE Access.](https://doi.org/10.1109/access.2025.3563806)
 
 We hope this repository aids in the reproduction of the results.
 
